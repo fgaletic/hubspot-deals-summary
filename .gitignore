@@ -6,3 +6,4 @@ hubspot.config.yml
 .env*
 !.env.sample
 /src/app/app.functions/.env
+/src/app/.vite
