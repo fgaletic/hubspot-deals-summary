@@ -52,14 +52,14 @@ const DealsSummary = () => {
   return (
     <Flex direction={'column'} gap={'lg'}>
       <Text variant="microcopy">
-        This example shows you how you can view a high-level summary of data
+        A high-level summary of data
         from associated deals.
       </Text>
       <Statistics>
         <StatisticsItem label="Open deals" number={dealsCount}>
           <Text>Total number of deals contact is associated with</Text>
         </StatisticsItem>
-        <StatisticsItem label="Unit price" number={totalAmount}>
+        <StatisticsItem label="Total amount" number={totalAmount}>
           <Text>High End</Text>
         </StatisticsItem>
       </Statistics>
