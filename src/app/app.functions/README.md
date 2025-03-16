@@ -12,7 +12,7 @@ In this example we actually add overrides for two [preloaded packages](https://d
   "description": "",
   "dependencies": {
     "@hubspot/api-client": "^7.0.1",
-    "axios": "^0.27.2",
+    "axios": "^1.8.2",
     "lodash": "^4.17.21",
   }
 }
